@@ -1,2 +1,1 @@
-# Do not give up
-# java studying start
+# Java studying start
