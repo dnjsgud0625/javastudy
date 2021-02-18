@@ -1,6 +1,6 @@
 package scanner;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class scanner {
 
