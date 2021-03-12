@@ -18,5 +18,4 @@ public class exe7_4 {
 		num.close();
 		System.out.println("1부터 "+a+"까지의 합 : "+sumUp(a));
 	}
-
 }
