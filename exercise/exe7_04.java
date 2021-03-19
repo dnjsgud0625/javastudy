@@ -2,7 +2,7 @@ package exercise;
 
 import java.util.*;
 
-public class exe7_4 {
+public class exe7_04 {
 	static int sumUp(int a) {
 		if(a==1)	return 1;
 		else {

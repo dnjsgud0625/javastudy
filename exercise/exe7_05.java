@@ -1,6 +1,6 @@
 package exercise;
 
-public class exe7_5 {
+public class exe7_05 {
 	static void hello(){
 		System.out.println("Hello");
 	}

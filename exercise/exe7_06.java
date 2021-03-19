@@ -2,7 +2,7 @@ package exercise;
 
 import java.util.*;
 
-public class exe7_6 {
+public class exe7_06 {
 	static void printSeason(int a) {
 		if(a==1 || a==2 || a==12)	System.out.println("겨울");
 		else if(a==3 || a==4 || a==5)	System.out.println("봄");
