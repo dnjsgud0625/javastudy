@@ -2,7 +2,7 @@ package exercise;
 
 import java.util.*;
 
-public class exe7_1 {
+public class exe7_01 {
 	static int sign0f(int n) {
 		if(n<0)	return -1;
 		else if(n==0)	return 0;
