@@ -2,7 +2,7 @@ package exercise;
 
 import java.util.*;
 
-public class exe7_7 {
+public class exe7_07 {
 	static void pucChars(char c, int n) {
 		while(n-- > 0)	System.out.print(c);
 	}

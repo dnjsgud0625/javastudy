@@ -2,7 +2,7 @@ package exercise;
 
 import java.util.*;
 
-public class exe7_9 {
+public class exe7_09 {
 	static int readPlusInt(int n) {
 		return n;
 	}
