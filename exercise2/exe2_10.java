@@ -13,5 +13,4 @@ public class exe2_10 {
 		System.out.println("안녕하세요 " + (a + b) + "씨!");
 		stdIn.close();
 	}
-
 }
