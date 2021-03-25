@@ -13,5 +13,7 @@ public class exe3_02 {
 		stdIn.close();
 		if (a % b == 0)
 			System.out.println("B는 A의 약수입니다.");
+		else
+			;
 	}
 }
