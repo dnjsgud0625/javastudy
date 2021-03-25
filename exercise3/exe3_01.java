@@ -9,6 +9,7 @@ public class exe3_01 {
 
 		System.out.print("정숫값 : ");
 		int a = stdIn.nextInt();
+		stdIn.close();
 		if (a >= 0)
 			System.out.println("절댓값은 " + a + "입니다.");
 		else
