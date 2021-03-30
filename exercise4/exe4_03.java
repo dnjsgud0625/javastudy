@@ -21,5 +21,6 @@ public class exe4_03 {
 				System.out.print(i + " ");
 			}
 		}
+		stdIn.close();
 	}
 }
