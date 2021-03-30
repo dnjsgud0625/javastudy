@@ -19,5 +19,6 @@ public class exe4_04 {
 			x--;
 		}
 		System.out.print(x);
+		stdIn.close();
 	}
 }
